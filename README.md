@@ -10,7 +10,7 @@ This is an example application to learn the flux architecture (publisher/subscri
     $> npm install (may need sudo)
     $> gulp
 
-#### Check it out in action
+###### Check it out in action
 
     $> cd flux/dist
     $> http-server
