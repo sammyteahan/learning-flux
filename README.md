@@ -5,8 +5,8 @@ This is an example application to learn the flux architecture (publisher/subscri
 
 ###### Up and running
 
-    $> git clone https://github.com/sammyteahan/flux.git
-    $> cd flux
+    $> git clone https://github.com/sammyteahan/flux.gi://github.com/sammyteahan/learning-flux.git 
+    $> cd learning-flux
     $> npm install
     $> gulp
 
