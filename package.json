@@ -1,0 +1,22 @@
+{
+  "name": "learning-flux",
+  "version": "1.0.0",
+  "description": "Learning flux patterns",
+  "main": "dist/index.html",
+  "dependencies": {
+    "react": "^0.13.3",
+    "browserify": "^11.1.0",
+    "flux": "^2.1.1",
+    "gulp": "^3.9.0",
+    "react-async": "^2.1.0",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0",
+    "react-router-component": "^0.26.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sammy Teahan",
+  "license": "ISC"
+}
